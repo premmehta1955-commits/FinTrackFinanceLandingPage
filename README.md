@@ -84,4 +84,5 @@ The final section encourages users to start managing their finances with FinTrac
 FinTrack is a fictional product created for educational purposes. All financial figures shown in the design are sample data.
 
 ## Author
-Student UI/UX Design Project
+Prem Mehta
+
