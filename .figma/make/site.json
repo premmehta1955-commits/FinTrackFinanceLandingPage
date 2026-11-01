@@ -1,0 +1,10 @@
+{
+  "description": "Helps students and young professionals track expenses, plan budgets, and reach savings goals with clear insights for building healthier money habits.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
