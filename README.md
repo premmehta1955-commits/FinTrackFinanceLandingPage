@@ -58,7 +58,7 @@ The main FinTrack landing page features a navigation bar, hero section, financia
 
 This section highlights the main features of FinTrack, including expense tracking, budget planning, and savings goals.
 
-![FinTrack Features Design](features-design.png)
+![FinTrack Features Design](featuers-design.png)
 
 ### 3. About Design
 
