@@ -48,15 +48,30 @@ UI/UX Design — Responsive Product Landing Page
 
 ## Screenshots
 
-### Desktop Design
-Add your desktop screenshot in the `screenshots` folder and embed it here:
+### 1. Desktop Landing Page
 
-![FinTrack Desktop Design](screenshots/desktop-design.png)
+The main FinTrack landing page features a navigation bar, hero section, financial dashboard preview, and a clear call-to-action for users.
 
-### Mobile Design
-Add your mobile screenshot in the `screenshots` folder and embed it here:
+![FinTrack Desktop Design](desktop-design.png)
 
-![FinTrack Mobile Design](screenshots/mobile-design.png)
+### 2. Features Section
+
+This section highlights the main features of FinTrack, including expense tracking, budget planning, and savings goals.
+
+![FinTrack Features Design](features-design.png)
+
+### 3. About Design
+
+This section presents additional information about the FinTrack product and its purpose of helping users manage their personal finances.
+
+![FinTrack About Design](about-design.png)
+
+### 4. Final Page — Call to Action and Footer
+
+The final section encourages users to start managing their finances with FinTrack. It includes a prominent call-to-action button, product information, navigation links, and copyright details.
+
+![FinTrack Final Page](last-page.png)
+
 
 ## Learning Outcomes
 - Understanding responsive UI/UX design
